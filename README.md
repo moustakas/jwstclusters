@@ -1,2 +1,2 @@
-# jwst-ers
-Code and documentation for our team's JWST/ERS cluster program.
+# jwstclusters
+Code and papers for our team's JWST/ERS cluster program.
